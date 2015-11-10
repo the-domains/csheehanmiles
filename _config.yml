@@ -1,0 +1,23 @@
+name: CSheehanMiles
+favicon: null
+layout_spectrum: 0.7722772408742458
+typography_spectrum: 0.22741185687482357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8998761237598956
+  lightness: 0.974228517152369
+  saturation: 0.14919512066990137
+  rhythmicContrast: 0.8445449166465551
+purpose: []
